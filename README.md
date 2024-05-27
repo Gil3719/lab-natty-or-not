@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Fotos de Paris
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fotos geradas por IA para simular fotos reais 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA de Geração de Imagem Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompts utilizados:
+Generate photographs of Paris.
+Generate photographs of a tour around Paris.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.canva.com/design/DAGGYfvhsAs/0_QcChPYoWZN2RA-8ujFoA/edit?utm_content=DAGGYfvhsAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Infelizmente essa tentativa de simulação de fotos foi a unica coisa em que pensei.
 ```
 
 ### Exemplos e Insigths
